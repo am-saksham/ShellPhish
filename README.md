@@ -49,7 +49,7 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 
 ### Usage:
 ```bash
-apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/AbirHasan2005/ShellPhish && cd ShellPhish && chmod +x * && bash shellphish.sh
+apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/am-saksham/ShellPhish && cd ShellPhish && chmod +x * && bash shellphish.sh
 ```
 
 - You will need to download ngrok ngrok.com/get-started/setup for workaround.
@@ -71,7 +71,7 @@ bash update.sh
 ## Legal disclaimer:
 ***Usage of Shellphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.***
 
-## Modified by @AbirHasan2005
+
 
 ## Credits:
 #### TheLinuxChoice: https://github.com/thelinuxchoice
@@ -96,6 +96,3 @@ bash update.sh
 </p><p align="left">
 <a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
-
-## Doante Me:
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/AbirHasan2005)
